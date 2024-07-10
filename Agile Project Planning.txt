@@ -1,0 +1,18 @@
+# AGILE PROJECT PLANNING
+------------------------
+Properly estimating and prioritizing project requirements is critical when planning projects. When managing Agile projects, you need to be able to map out the work necessary for your 
+product release.
+
+In this course, you'll learn about vital Agile planning activities including creating personas and wireframing. This course also covers the most common Agile estimation techniques used 
+when managing projects such as story points, wideband Delphi, and affinity estimation. 
+
+This course also covers requirements prioritization methods and other Agile project management activities you perform when completing your release plan.
+
+This course is one of a series in the Skillsoft learning path that covers the objectives for the PMI Agile Certified Practitioner (PMI-ACP)® exam. PMI-ACP is a registered mark of the 
+Project Management Institute, Inc.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

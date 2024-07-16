@@ -1,10 +1,13 @@
 # AGILE PROJECT PLANNING
 ------------------------
-Properly estimating and prioritizing project requirements is critical when planning projects. When managing Agile projects, you need to be able to map out the work necessary for your 
+Properly estimating and prioritizing project requirements is critical when planning projects. 
+
+When managing Agile projects, you need to be able to map out the work necessary for your 
 product release.
 
-In this course, you'll learn about vital Agile planning activities including creating personas and wireframing. This course also covers the most common Agile estimation techniques used 
-when managing projects such as story points, wideband Delphi, and affinity estimation. 
+In this course, you'll learn about vital Agile planning activities including creating personas and wireframing. 
+
+This course also covers the most common Agile estimation techniques used when managing projects such as story points, wideband Delphi, and affinity estimation. 
 
 This course also covers requirements prioritization methods and other Agile project management activities you perform when completing your release plan.
 
@@ -13,6 +16,78 @@ Project Management Institute, Inc.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Objectives
+------------
+. identify key considerations for Agile project scoping
+
+. identify best practices for creating personas as part of requirements definition
+
+. identify wireframing best practices for formatting user stories
+
+. identify benefits of story mapping
+
+. recognize Agile estimating techniques
+
+. identify considerations to keep in mind when estimating team velocity
+
+. recognize different customer-valued prioritization methods
+
+. identify the four MoSCoW model categories
+
+. recognize characteristics of Kano models and priority matrices
+
+. identify the key activities that take place in the iteration planning meeting
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Agile Project Planning
+------------------------
+Agile project planning involves establishing the proper project requirements, conditions of satisfaction, and priorities.
+
+This course covers how to create and prioritize user stories. A key activity for clearly defining customer-centric requirements and features.
+
+You'll also learn about agile estimating techniques, estimating team velocity, and prioritizing user stories and requirements.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+											          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

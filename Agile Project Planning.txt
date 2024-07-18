@@ -141,6 +141,74 @@ In summary, two key planning stages in Agile are release planning and iteration 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Use Cases and Personas
+------------------------
+* Use cases are common in both software and system engineering and they're part of defining requirements.
+
+	Use cases describe a sequence of activities that provide measurable value to an actor who represents the user.
+
+	You may think of use cases as different scenarios.
+
+	So for example, one use case may be where a user already has an account on the system.
+
+	What happens then?
+
+	Another use case may be where a user is trying to use our system, but they haven't yet established an account.
+
+In this context, actors represent the roles that users may have in relation to a system.
+
+So actors may be persons, organizations, or external systems.
+
+A person may be a user who directly uses the software.
+
+An organization may be an organization that benefits from some reporting or some other feature of the software.
+
+And an external system may be the recipient of some data that our software is sending to it.
+
+	* We use personas in Agile projects as a way to define examples of typical users of our systems.
+
+		They should be concise and visual.
+
+		When we develop personas, we think about certain things such as providing a name, a personality, what their motivation is to use our software, providing professional 
+		details, how much they use the technology,etc., and potentially a picture of that person.
+
+		It helps teams to identify personas and to start to create a relationship with them, in order to understand their mindset as they're using our software.
+
+		It may seem interesting to go into details of these personas, however they actually really do help us understand how users are going to use our system, and what things 
+		they may be taking into consideration as they'reinteracting with it.
+
+		We may want to use or create more than one persona.
+
+		We implement personas in order to understand exactly what a product may need to do in different scenarios, and how it may need to react when providing different inputs 
+		from different personas.
+
+		Creating personas may require community research.
+
+		So, for example, we may have to conduct some focus groups.
+
+		We may have to talk to potential users or even customer support, since they really understand some of the struggles that our users currently have, and product managers, 
+		since a part of their job is to understand our customers.
+
+		In order to write effective personas, we don't want to make up personas that don't actually exist.
+
+		We want to base our personas on reality. They should be based on who will actually use and benefit from our software. We also want to develop specific personas sowe want 
+		to be able to differentiate between the different personas.
+
+		We also want to define the persona goals.
+
+		Why would they use our system? We may also consider negative personas. If there were some personas that would want our system to fail, or wouldn't want to use our product, 
+		what would their motivations and reasons be?
+
+		We may consider creating primary personas and then some secondary ones.
+
+		The primary personas are the ones that will really drive our decision-making in our understanding of the user.
+
+* In summary, use cases and personas help you define requirements. When creating personas, best practices include, basing them on reality, being specific, defining persona goals, including
+negative personas, and creating primary and secondary personas.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 

@@ -53,8 +53,101 @@ You'll also learn about agile estimating techniques, estimating team velocity, a
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Defining Project Scope and Roadmap
+------------------------------------
+Two key planning stages in Agile are 
+
+	. release planning and 
+	. iteration planning.
+
+At the release planning level, we define the plan for delivering a certain increment of product or business value by a target release date.
+
+Release planning helps stakeholders start to set expectations on what they can start to see within each iteration as they approach the final release.
+
+The key tasks of release planning include:
+
+	. establishing project goals
+	. creating user stories
+	. prioritizing stories so that the team and stakeholders identify what must be developed
+	. estimating stories
+	. grouping stories, and 
+	. setting a release date.
+
+Iteration planning is sometimes referred to as sprint planning. It defines specific goals for the team in the next iteration.
+
+The key tasks of iteration planning are:
+
+	. confirming user stories and priorities for the next sprint
+	. decomposing selected stories into tasks
+	. refining estimates and
+	. updating requirements if needed and based on new learning.
+
+In Agile planning, we have the concept of the cone of uncertainty.
+
+	Essentially the concept is that there is a decrease of variance overtime and estimates. So as we move forward in a project, we have last project unknowns and our estimates versus 
+	actual start to approach each other, and become closer until there is no variance between them.
+
+	Estimates may have been created using historical project data. They're used to create a high to low estimate range, and they vary depending on the type of project.
+
+In Agile planning, we also have the concept of progressive elaboration.
+
+	Progressive elaboration means that the project plan is continuously and constantly modified, detailed and improved.
+
+	Progressive elaboration helps us account for changes in scope or requirements or even priorities.
+
+	Progressive elaboration is performed throughout the project life cycle and it allows the project to be managed to a greater level of detail.
+
+	So as the project evolves, we're actually able to manage better, because we understand more detail about the requirements, about the users and about how they're going to use our 
+	product.
+
+In the context of Agile projects, scope is defined as the extent of the work that needs to be completed in order for our project to be considered complete.
+
+	Overtime, scope usually increases. 
+
+	Scope is likely to change over the course of a project because requirements change and because requirements are refined as the project progresses.
+
+	In Agile, we understand and acknowledge this fact. And we don't try to run away from the idea that scope may change as our project progresses.
+
+	When we incorporate learning and feedback, we actually can create better products. Ultimately our goal is to create the best products for our end users and for our stakeholders.
+
+	Scope can be controlled by continually maximizing value for the customer, such as by minimizing waste and increasing effectiveness of teams.
+
+Scope creep is another concept in project management.
+
+	Scope creep is uncontrolled change to a project which can result in delays or higher costs.
+
+	Scope creep should not be confused with controlled change, which is accepted and even encouraged if it adds value for the customer.
+
+	We must avoid scope creep by introducing change in a managed way that considers the impact to other parts of the project and is agreed to by the customer and key stakeholders.
+
+	So what do we do if our budget and schedule are fixed, but we want to introduce a new feature or requirement? We may decide to sacrifice a less valuable feature to make room in 
+	the budget and schedule for this one. This is one way to prevent scope creep.
+
+In summary, two key planning stages in Agile are release planning and iteration planning.
+
+* The key tasks of release planning include, 
+	. establishing project goals,
+	. creating user stories, 
+	. prioritizing stories so that the team and stakeholders identify what must be developed, 
+	. estimating stories,
+	. grouping stories and setting a release date.
+
+* The key tasks of iteration planning are, 
+	. confirming user stories and priorities for the next sprint,
+	. decomposing selected stories into tasks, 
+	. refining estimates and
+	. updating requirements if needed and based on new learning.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 											          
+
+
+
 
 
 

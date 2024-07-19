@@ -209,12 +209,58 @@ negative personas, and creating primary and secondary personas.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Formatting User Stories
+-------------------------
+It's beneficial to depict user stories visually for team members and stakeholders.
+
+A great way to do this is to use wireframes.
+
+	. Wireframes are also known as page schematics or screen blueprints.
+
+	. Wireframes provide a visual guide and define information hierarchy on a page.
+
+	. Wireframes also make it easier for our user experience designers to plan the layout of a page. And with wireframes, users can interact with the interface before anything's been
+ 	developed.
+
+	. The benefits of wireframes are many.
+
+		. For example, for clients, wireframes help them obtain a better understanding of our solution.
+		. They also provide a format for providing feedback.
+		. For product and project managers, wireframes ensure that stakeholders are on the same page.
+		. For designers, they can rely on wireframes as blueprints for design visuals in a high-level, low fidelity way.
+		. For developers, wireframes can help obtain understanding of technical requirements.
+
+	. There are several best practices to follow when wireframing.
+
+		. First, avoid making wireframes fancy. We want to keep wireframes at a high-level and low fidelity, so that we're not committing to a certain layout.
+		. It's interesting, but once we get into designing in a high-level of detail, we start to commit to memory and we start to commit to certain elements on the page.
+		. It's harder to detach from a high fidelity design than from a low fidelity wireframe.
+
+	. With wireframes, we also want to gather feedback before we start creating them, and once we've created them in order to continually improve our design.
+
+	. Wireframes also provide us with an opportunity to experiment with different ways of placing things on a page, or different ways of depicting a requirement that a stakeholder has 
+	given.
+
+	. You should experiment with the options to ensure the best decisions are made.
+
+	. You should also use story boards when wireframing to help visualize interactions.
+
+Another best practice is to use annotations and notes, in order to note certain things that developers might want to take into consideration, or certain ways that something may need to be 
+developed or implemented.
+
+And we always want to provide an explanation with wireframes since they don't stand on their own.
+
+In summary, wireframes are a great way to start to depict our requirements in a visual way. And to ensure that people are on the same page.
+
+Best practices when wireframing include keeping them simple,gathering feedback, experimenting, using storyboards,using annotations and providing explanations with them.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
 											          
-
-
 
 
 

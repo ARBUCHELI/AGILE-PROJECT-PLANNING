@@ -44,7 +44,7 @@ Project Management Institute, Inc.
 
 * Agile Project Planning
 ------------------------
-Agile project planning involves establishing the proper project requirements, conditions of satisfaction, and priorities.
+Agile project planning involves establishing the proper project requirements, conditions of satisfaction, and priorities. (!!!GAZPROM PROJECT)
 
 This course covers how to create and prioritize user stories. A key activity for clearly defining customer-centric requirements and features.
 
@@ -60,11 +60,14 @@ Two key planning stages in Agile are
 	. release planning and 
 	. iteration planning.
 
-At the release planning level, we define the plan for delivering a certain increment of product or business value by a target release date.
+At the release planning level, we define the plan for delivering a certain increment of product or business value by a target release date. (!!!GAZPROM PROJECT - THIS WILL BE DELIVERED
+OVER MULTIPLE SPRINTS).
 
 Release planning helps stakeholders start to set expectations on what they can start to see within each iteration as they approach the final release.
 
 The key tasks of release planning include:
+
+	(!!!GAZPROM PROJECT)
 
 	. establishing project goals
 	. creating user stories
@@ -73,9 +76,11 @@ The key tasks of release planning include:
 	. grouping stories, and 
 	. setting a release date.
 
-Iteration planning is sometimes referred to as sprint planning. It defines specific goals for the team in the next iteration.
+Iteration planning is sometimes referred to as sprint planning. It defines specific goals for the team in the next iteration. (!!!GAZPROM PROJECT)
 
 The key tasks of iteration planning are:
+
+	(!!!GAZPROM PROJECT)
 
 	. confirming user stories and priorities for the next sprint
 	. decomposing selected stories into tasks
@@ -91,7 +96,8 @@ In Agile planning, we have the concept of the cone of uncertainty.
 
 In Agile planning, we also have the concept of progressive elaboration.
 
-	Progressive elaboration means that the project plan is continuously and constantly modified, detailed and improved.
+	Progressive elaboration means that the project plan is continuously and constantly modified, detailed and improved. (!!!GAZPROM PROJECT - WE NEED CONSTANT COLLABORATION FROM THE
+	CLIENT).
 
 	Progressive elaboration helps us account for changes in scope or requirements or even priorities.
 
@@ -104,7 +110,8 @@ In the context of Agile projects, scope is defined as the extent of the work tha
 
 	Overtime, scope usually increases. 
 
-	Scope is likely to change over the course of a project because requirements change and because requirements are refined as the project progresses.
+	Scope is likely to change over the course of a project because requirements change and because requirements are refined as the project progresses. (!!!GAZPROM PROJECT - ASK IF THIS
+	IS ALREADY WELL DEFINED).
 
 	In Agile, we understand and acknowledge this fact. And we don't try to run away from the idea that scope may change as our project progresses.
 
@@ -121,7 +128,7 @@ Scope creep is another concept in project management.
 	We must avoid scope creep by introducing change in a managed way that considers the impact to other parts of the project and is agreed to by the customer and key stakeholders.
 
 	So what do we do if our budget and schedule are fixed, but we want to introduce a new feature or requirement? We may decide to sacrifice a less valuable feature to make room in 
-	the budget and schedule for this one. This is one way to prevent scope creep.
+	the budget and schedule for this one. This is one way to prevent scope creep. (!!!GAZPROM PROJECT - THINK ABOUT THIS FOR PRIORITIZATION)
 
 In summary, two key planning stages in Agile are release planning and iteration planning.
 
@@ -213,7 +220,7 @@ negative personas, and creating primary and secondary personas.
 -------------------------
 It's beneficial to depict user stories visually for team members and stakeholders.
 
-A great way to do this is to use wireframes.
+A great way to do this is to use wireframes. (!!!GAZPROM PROJECT - WE ARE ALREADY USING THIS METHOD IN THIS PROJECT)
 
 	. Wireframes are also known as page schematics or screen blueprints.
 
@@ -257,7 +264,7 @@ Best practices when wireframing include keeping them simple,gathering feedback, 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* Using Story Maps
+* Using Story Maps (!!!GAZPROM PROJECT - WE WILL USE THIS METHOD)
 ------------------
 Story mapping, originally introduced by Jeff Patton, is a powerful, visual way to plan Agile projects.
 
@@ -319,7 +326,7 @@ Understanding the different estimating techniques and when to use them is critic
 There are several estimating techniques to use in Agile, depending on what your estimating goals are. 
 
 	1. Story points, one option, are a tool used by teams to perform relative estimation. By relative, we mean that when we estimate using story points, we're estimating by comparing 
-	the relative effort of user stories as compared to each other. 
+	the relative effort of user stories as compared to each other. (!!!GAZPROM PROJECT - WE CAN USE THIS IN OUR PROJECT)
 
 		. Story points are what we call an arbitrary measure. Which means that an estimate of three or a medium by one team, may mean a completely different thing than an estimate 
 		of three or a medium given by another team. 
@@ -335,7 +342,7 @@ There are several estimating techniques to use in Agile, depending on what your 
 			. And number three, the Effort required to implement once we're ready to develop.
 
 	2 . Ideal Days are a measure that can be used instead of story points. And one reason why teams might want to use Ideal Days is that they can be more intuitive than thinking about 
-	estimation and points.
+	estimation and points. (!!!GAZPROM PROJECT - WE CAN USE THIS IN OUR PROJECT)
 
 		. Ideal Days are units of time, whereas points are an arbitrary measure. They are used to estimate the relative size of user stories, product backlog items, and projects.
 
@@ -344,7 +351,7 @@ There are several estimating techniques to use in Agile, depending on what your 
 		. Ideal conditions refers to no interruptions, and that all resources are available. 
 
 
-	3. Another estimating method that can be used to estimate user stories in Agile projects is Relative Sizing.
+	3. Another estimating method that can be used to estimate user stories in Agile projects is Relative Sizing. (!!!GAZPROM PROJECT - WE CAN USE THIS IN OUR PROJECT)
 
 		. With Relative Sizing, we're expressing the overall size of an item. So for example, we could be using Relative Sizing for users' stories or tasks. 
 
@@ -355,7 +362,7 @@ There are several estimating techniques to use in Agile, depending on what your 
 		people who are experts on implementation and ask them what the relative complexity is of one story as compared to the others. 
 
 		
-	4. Wideband Delphi is another estimation technique, and was developed in the 1940s by RAND Corporations as a forecasting tool.
+	4. Wideband Delphi is another estimation technique, and was developed in the 1940s by RAND Corporations as a forecasting tool. (!!!GAZPROM PROJECT - WE CAN USE THIS IN OUR PROJECT)
 
 		. Wideband Delphi is a repeatable process. It's a group estimation technique that is used to estimate effort, and is straightforward to implement.
 
@@ -376,7 +383,8 @@ There are several estimating techniques to use in Agile, depending on what your 
 	5. Planning Poker is another commonly used estimation technique by Agile teams. And it's used to determine user story size, as well as to build consensus among team members. 
 
 
-	6. And finally, Affinity Estimation is a technique used to quickly and easily estimate a large number of user stories and story points. 
+	6. And finally, Affinity Estimation is a technique used to quickly and easily estimate a large number of user stories and story points. (!!!GAZPROM PROJECT - WE CAN USE THIS IN 
+	OUR PROJECT)
 
 		. This is done by quickly categorizing user stories, and then applying estimates to those categories of stories.
 
@@ -400,7 +408,7 @@ In summary
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* Estimating Team Velocity
+* Estimating Team Velocity (!!!GAZPROM PROJECT - WE WILL USE THIS IN OUR PROJECT)
 --------------------------
 A team's velocity is defined as the actual amount of development work completed, usually measured in story points, for a certain amount of time or timebox. 
 
@@ -478,6 +486,95 @@ They include
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Value-based Prioritization
+----------------------------
+There are a number of ways to calculate the expected value that a project might generate for us. (!!!GAZPROM PROJECT - WE MUST TO DEFINE CLEARLY WHAT VALUE MEANS TO THE CLIENT)
+
+You could look at 
+	
+	. return on investment or ROI,
+	. net present value or 
+	. internal rate of return orIRR, and 
+	. compliance. 
+
+* ROI compares the values of project realized to the value of the investment put into it. When the ROI is positive then the project is profitable. 
+
+* NPV is a capital budgeting technique. A project with a positive NPV is also profitable.
+
+* IRR is defined as the interest rate that makes the net present value zero. The higher the IRR, the more profitable and thus more desirable.
+
+* And compliance determines how we are conforming to rules, such as 
+
+	. industry specifications, 
+	. standards, and policies.
+	. This also includes regulatory compliance, which relates to adherence to any relevant laws. 
+
+Relative prioritization is one way of prioritizing based on user requirements. It involves user-related considerations such as the positive benefit of a feature and the negative impact of 
+its absence. 
+
+* Minimum Viable Product, or MVP, is another value-based concept. (!!!GAZPROM PROJECT - THINK ABOUT THE IMPACT OF THE DEMO IN OUR PROJECT) 
+
+	. MVP considers which features or deliverables are sufficient to satisfy early adopters andt hat demonstrate enough future benefit.
+	. It provides a feedback loop to guide future development.
+
+		ACTION -> EVIDENCE -> RELEVANCE -> CONSEQUENCE -> ACTION
+
+* Another way to look at prioritization is from a customer's perspective. Sowe might try and look at how much value a customer will perceive, or how much value we expect to generate for a 
+customer through a project.
+
+	. We want to always ensure that we're delivering the highest value to customers as early as possible. 
+
+	. One way to prioritize in terms of the customer'sperspective is the 100-point method, which assigns every customer 100 points that they can then distribute amongst the user 
+	stories, or the requirements for a project. 
+
+	. So let's say we give one of our stakeholders 100 points and we say, assign these to the user stories according to which ones are most important to you. So they may give one of 
+	the user stories for example, 50 points, and then distribute the rest of their 50 points amongst five other user stories or two other user stories.
+
+	. This gives us a strong indication that the user story that was given 50 points is really the highest critical or most important user story for that stakeholder. 
+
+* Another customer value-based prioritization method is called the Kano Analysis.
+
+	. The Kano Analysis compares the degree of implementation of user stories or requirements against the degree of customer satisfaction generated by developing or implementing those 
+	user stories. 
+
+* The third method for customer-valued prioritization is Multivoting. 
+
+	. With Multivoting, we take a number of ideas that have come up, sometimes as a process of brainstorming, and then each person is allowed to vote on the top one-third of all of 
+	those ideas. 
+
+	. This will help us to see which third of the ideas are starting to appear as the most important for a majority of our stakeholders. 
+
+* And lastly, the CARVER Technique categorizes user stories or requirements based on a number of criteria which are 
+
+	. criticality, 
+	. accessibility, 
+	. return,
+	. vulnerability, 
+	. effect and recognisability. 
+
+Once we start to put user stories into those categories, we can start to see certain trends or start to prioritize based on those categories. 
+
+In summary,there are many value-based prioritization methods, including 
+
+	. ROI, 
+	. NPV, 
+	. IRR, 
+	. compliance,
+	. relative prioritization, 
+	. and MVP. 
+
+Customer-valued prioritization methods can be especially useful in Agile projects. The methods that focus on customer value are the 
+
+	. 100-point method,
+	. Kano analysis, 
+	. Multivoting, and the 
+	. CARVER technique.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 

@@ -257,7 +257,93 @@ Best practices when wireframing include keeping them simple,gathering feedback, 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Using Story Maps
+------------------
+Story mapping, originally introduced by Jeff Patton, is a powerful, visual way to plan Agile projects.
 
+Story maps are a way to organize and present information, similar to the concept of a roadmap.
+
+However, in story maps, we order users' activities and tasks as they interact with our system.
+
+Story maps depict users' activities overtime or sequentially.
+
+User stories help us to really focus on the user in our planning efforts.
+
+When we put them in the context of a story map, it also helps us focus on business value, since that's what helps us determine priority.
+
+In users' story maps, the horizontal axis shows a high-level overview of the system. Meaning, if we were to read the cards at the very top, we would have a high-level understanding of 
+what the system does.
+
+So for example, the blue cards on this diagram may say something like Log In, Enter Banking Information and View Reports. 
+
+We can guess that this is probably some type of financial software.
+
+The horizontal axis is also ordered based on the order of how user suse the system over time. So in the previous example, a user would most likely first log in, then enter banking or 
+transaction information and then view reports.
+
+	. The first row of the story map is called the walking skeleton and is considered the minimum working version of the system that can provide value to a user.
+
+	. On the vertical axis of a users' story map, we start to get deeper into additional scenarios, more sophisticated use cases and more robustness.
+
+	. As we go further down the vertical axis, the functionality is less necessary than the top rows.
+
+	. Story mapping has many benefits.
+
+		. First, story mapping helps with knowing what to build first.
+
+		. Story mapping also helps us to build using an iterative approach. It helps us start to see things in terms of building Release 1 based on what's most necessary, and then 
+		Release 2, what's necessary for this iteration, and then Release 3, and so forth.
+
+		. Story maps help us to see the scope of a project and then also to plan our releases at a high-level.
+
+		. Story mapping also helps us continue to prioritize the product's backlog, as things may shift in-between releases as we're implementing or executing on the plan.
+
+		. Story mapping also has an open approach to the supporting goals and activities of each story. So for example, when we're looking at how to solve or how to implement
+		certain cases, we want to think about things like manual workarounds. What are the different ways that we can implement a requirement that can be the most iterative and 
+		open and easiest approach to getting something done?
+
+		. Story mapping allows you to explore those options.
+
+In summary, story maps are a visual planning tool that help you organize and present your project plan.
+
+Story maps help you to identify what to build first, support an iterative approach, identify scope, help in planning releases, help with prioritizing product backlog, and provide an open 
+approach.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Agile Estimating Techniques
+-----------------------------
+Understanding the different estimating techniques and when to use them is critical for your Agile project success.
+
+There are several estimating techniques to use in Agile, depending on what your estimating goals are. 
+
+	1. Story points, one option, are a tool used by teams to perform relative estimation. By relative, we mean that when we estimate using story points, we're estimating by comparing 
+	the relative effort of user stories as compared to each other. 
+
+		. Story points are what we call an arbitrary measure. Which means that an estimate of three or a medium by one team, may mean a completely different thing than an estimate 
+		of three or a medium given by another team. 
+
+		. Story points are usually used by Scrum teams, and they express how much effort is required to implement a story or what we call the size of a story. 
+	
+		. We take three items into consideration when we're coming up with the relative size of a story.
+
+			. Number one, the Level of complexity involved in implementing.
+
+			. Number two, the Level of unknowns or risk. 
+
+			. And number three, the Effort required to implement once we're ready to develop.
+
+	2 . Ideal Days are a measure that can be used instead of story points. And one reason why teams might want to use Ideal Days is that they can be more intuitive than thinking about 
+	estimation and points.
+
+		. Ideal Days are units of time, whereas points are an arbitrary measure. They are used to estimate the relative size of user stories, product backlog items, and projects.
+
+		. Ideal days are how many days it will take a single developer to Build, Test, and Release the functionality described by a user story, under the ideal conditions. 
+
+		. Ideal conditions refers to no interruptions, and that all resources are available. 
+
+Another estimating method that can be used toestimate user stories in Agile projects is Relative Sizing.With Relative Sizing, we're expressing the overall size of an item. Sofor example, we could be using Relative Sizing for users' stories ortasks. The Absolute value is not considered andwhat we mean by that is that, it's a very different method of sizing orestimating than saying that something will take exactly one hour, orthree hours, etc. Relative Sizing is a cheap andfast estimation technique, there's not a lot of math involved.There isn't a lot of time involved, either. We really get together the peoplewho are experts on implementation andask them what the relative complexity is of one story as compared tothe others. Wideband Delphi is another estimation technique,and was developed in the 1940s by RAND Corporations as a forecasting tool.Wideband Delphi is a repeatable process. It's a group estimation techniquethat is used to estimate effort, and is straightforward to implement.It includes six steps, which are, scheduling an estimation meeting,describing what the team is estimating, tasking members to estimateindividually, revealing the individual results, discussing, and repeating.Planning Poker is another commonly used estimation technique by Agile teams.And it's used to determine user story size, as well as to build consensusamong team members. And finally, Affinity Estimation is a techniqueused to quickly and easily estimate a large number of user stories andstory points. This is done by quickly categorizing user stories,and then applying estimates to those categories of stories.The participants of the Affinity Estimation meeting are the Product Owner,the Development Team, and the Scrum Master. In summary,Story Points, Ideal Days, Relative Sizing, Wideband Delphi, Planning Poker,and Affinity Estimation are all estimating techniques you can use in Agile.
 
 
 											          

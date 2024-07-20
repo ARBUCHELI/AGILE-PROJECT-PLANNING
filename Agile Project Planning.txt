@@ -343,7 +343,64 @@ There are several estimating techniques to use in Agile, depending on what your 
 
 		. Ideal conditions refers to no interruptions, and that all resources are available. 
 
-Another estimating method that can be used toestimate user stories in Agile projects is Relative Sizing.With Relative Sizing, we're expressing the overall size of an item. Sofor example, we could be using Relative Sizing for users' stories ortasks. The Absolute value is not considered andwhat we mean by that is that, it's a very different method of sizing orestimating than saying that something will take exactly one hour, orthree hours, etc. Relative Sizing is a cheap andfast estimation technique, there's not a lot of math involved.There isn't a lot of time involved, either. We really get together the peoplewho are experts on implementation andask them what the relative complexity is of one story as compared tothe others. Wideband Delphi is another estimation technique,and was developed in the 1940s by RAND Corporations as a forecasting tool.Wideband Delphi is a repeatable process. It's a group estimation techniquethat is used to estimate effort, and is straightforward to implement.It includes six steps, which are, scheduling an estimation meeting,describing what the team is estimating, tasking members to estimateindividually, revealing the individual results, discussing, and repeating.Planning Poker is another commonly used estimation technique by Agile teams.And it's used to determine user story size, as well as to build consensusamong team members. And finally, Affinity Estimation is a techniqueused to quickly and easily estimate a large number of user stories andstory points. This is done by quickly categorizing user stories,and then applying estimates to those categories of stories.The participants of the Affinity Estimation meeting are the Product Owner,the Development Team, and the Scrum Master. In summary,Story Points, Ideal Days, Relative Sizing, Wideband Delphi, Planning Poker,and Affinity Estimation are all estimating techniques you can use in Agile.
+
+	3. Another estimating method that can be used to estimate user stories in Agile projects is Relative Sizing.
+
+		. With Relative Sizing, we're expressing the overall size of an item. So for example, we could be using Relative Sizing for users' stories or tasks. 
+
+		. The Absolute value is not considered and what we mean by that is that, it's a very different method of sizing or estimating than saying that something will take exactly 
+		one hour, or three hours, etc. 
+
+		. Relative Sizing is a cheap and fast estimation technique, there's not a lot of math involved. There isn't a lot of time involved, either. We really get together the 
+		people who are experts on implementation and ask them what the relative complexity is of one story as compared to the others. 
+
+		
+	4. Wideband Delphi is another estimation technique, and was developed in the 1940s by RAND Corporations as a forecasting tool.
+
+		. Wideband Delphi is a repeatable process. It's a group estimation technique that is used to estimate effort, and is straightforward to implement.
+
+		. It includes six steps, which are, 
+
+			. scheduling an estimation meeting,
+
+			. describing what the team is estimating, 
+
+			. tasking members to estimate individually, 
+
+			. revealing the individual results, 
+
+			. discussing, and 
+
+			. repeating.
+
+	5. Planning Poker is another commonly used estimation technique by Agile teams. And it's used to determine user story size, as well as to build consensus among team members. 
+
+
+	6. And finally, Affinity Estimation is a technique used to quickly and easily estimate a large number of user stories and story points. 
+
+		. This is done by quickly categorizing user stories, and then applying estimates to those categories of stories.
+
+		. The participants of the Affinity Estimation meeting are 
+
+			. the Product Owner,
+
+			. the Development Team, and 
+
+			. the Scrum Master. 
+
+In summary
+
+	. Story Points, 
+	. Ideal Days, 
+	. Relative Sizing, 
+	. Wideband Delphi, 
+	. Planning Poker,
+	. and Affinity Estimation are all estimating techniques you can use in Agile.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 											          

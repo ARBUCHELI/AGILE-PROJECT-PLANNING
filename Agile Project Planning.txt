@@ -400,6 +400,85 @@ In summary
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Estimating Team Velocity
+--------------------------
+A team's velocity is defined as the actual amount of development work completed, usually measured in story points, for a certain amount of time or timebox. 
+
+	. Velocity is usually measured using a sprint as the amount of time we're measuring for. 
+
+	. For some teams, that would mean one week. 
+
+	. For others, it means two, three or four. 
+
+	. Velocity can be used as a way to plan projects by understanding the capacity of the team, then using their current capacity as a predictor of future capacity. 
+
+So we're using velocity to estimate how quickly a certain amount of work can be completed. Velocity is typically expressed in terms of points.
+
+	. For example, if a team has an average velocity of 20 points per sprint and we've estimated the remaining work at 70 points, we probably need four sprints to complete all the work.
+
+	. Since we know how long a sprint is for our team, we can then extrapolate an estimate on how long it will take to finish the project. 
+
+So from the example, if one sprint is two weeks and the remaining work requires four more sprints, then we need about eight more weeks. 
+
+When trying to figure out our team's velocity, we typically look at historical velocity data and take an average.
+
+One challenge we may face in trying to determine velocity for the first time, before our team has used this way of measuring capacity, is that it's hard to come up with an initial value. 
+
+There are a few ways,however, to come up with a velocity at this point. 
+
+	. One way is to use historical values of this team's velocity on other projects. However, this requires that the team has worked together before and has used velocity as a measure.
+
+	. The second way to come up with a velocity estimate is to actually run an iteration with the team. (!!!GAZPROM PROJECT)
+
+This way, we can start to get a sense of the team's velocity and we can use that velocity to plan the rest of the release. 
+
+Note that teams usually start out with an initial velocity that changes somewhat over time as they learn to work better together. 
+
+	. One tool some teams use to keep track of velocity over time is velocity charts.
+
+	. Velocity charts show a sum of the estimates of work delivered across all iterations to date. 
+
+Since velocity typically stabilizes over time, these charts can be a valuable tool for planning projects. 
+
+In addition to planning, velocity charts are a helpful tool in providing insight into project progress so far for a team.
+
+There are a few things to consider when thinking about velocity.
+
+	. In some organizations, there's a strong focus on continually improving or increasing velocity. 
+
+	. This can be dangerous as it can lead to team burnout and overwork, and cause velocity to go up at the expense of bugs and issues, which will ultimately cancel out any velocity 
+	gains.
+
+	. Changes in team structure may cause changes in velocity, since different people have different capacity and team members bring different dynamics to the team. So it's important 
+	to note and keep track of changes in team structure and how those changes can impact velocity. 
+
+	. Also, technological complexity is not always something teams can predict going into a project. 
+
+	. So estimates may change even though velocity has stayed typically the same.
+
+	. Miscommunication can also cause estimates to be inaccurate, and changing customer requirements means things change in terms of the estimates overtime. 
+
+Estimating a team's velocity is a tool that can help us plan projects and plan release dates. 
+
+	. However, in Agile projects, we want to be aware of the considerations that may change velocity estimates and release estimates over time. 
+
+In summary,estimating team velocity is a useful way to plan projects by understanding the capacity of the team. 
+
+However, when estimating team velocity,there are several considerations to keep in mind.
+
+They include
+
+	. too much focus on increasing velocity,
+
+	. changes in team structure, 
+
+	. technological complexity is unpredictable,
+
+	. miscommunication, and changing requirements.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 

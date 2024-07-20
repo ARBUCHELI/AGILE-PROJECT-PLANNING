@@ -574,6 +574,62 @@ Customer-valued prioritization methods can be especially useful in Agile project
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Prioritizing User Stories with MoSCoW Model
+---------------------------------------------
+The MoSCoW method is a tool that's used to help a team prioritize user stories. It's a technique for helping to understand priorities and ensure a common understanding across the 
+different team members.
+
+The MoSCoW method is usually used by analysts and stakeholders when they're coming up with user stories or requirements for a project. It can help determine a clear set of requirements, 
+and a clear priority for those requirements, by categorizing each user story.
+
+Once you establish which category each of the user stories falls within, you can determine which requirements are important, which aren't as important, and which can be excluded from the 
+scope of your project.
+
+		. The first category in MoSCoW is must have, which is the minimum usable subset. These are the users' stories that must be included in order forus to go forward with 
+		releasing anything into production.
+
+		. The next category is should have, which are the user stories that aren't critical, but are still deemed important for the project.
+
+		. The third category is could have, which are the user stories that would be useful and would add additional value to the project.
+
+		. And the final category is won't have, which are the user stories that are explicitly excluded from the scope of this project. Sometimes we also think of these as the 
+		user stories that we would like to have in the future, but that we know for sure we will not have in this release.
+
+The process for rating user stories using the MoSCoW method is that we assign a priority letter of either M, S, C, or W, to all user stories in our project.
+
+Once we've created a user story backlog, whether that's on a whiteboard or a wall, or an Excel spreadsheet.
+
+The project team will then work through the map, take a look at the priority that's been assigned to each of the user stories, and identify or discuss any issues that may happen, or may 
+come up in discussion when they're looking at the priority.
+
+So for example, some of the team members may have an opinion about what requirements may constitute a must have, or a should have, but that may be categorized incorrectly as a could have 
+or a won't have.
+
+If a team is using the MoSCoW method, we can actually use those categories to help us create our story map.
+
+So for example, we'll use the M-ranked or the must have stories to create our backbone of our story map.
+
+The M-ranked user stories are sequenced according to their themes and logical order of development to create that backbone.
+
+Once we have the backbone, we'll then take the S-ranked stories, or the should have stories, and place them beneath the must have stories.
+
+After that, we'll add the C-ranked and the W-ranked stories, which fall lower and lower on the story map.
+
+The W-ranked stories may actually be excluded from the story map if we know for sure that we're not going to develop them.
+
+Once we've arranged these in a story map, we can start to work through it and talk about the different issues that may relate to each of the user stories and each of the layers, and 
+discuss potential issues with the team.
+
+Using the MoSCoW method is a way to start thinking about user stories interms of must have, should have, could have, and won't have, and is a great way to identify the scope of a project, 
+and then create a user story map.
+
+In summary, the MoSCoW method is a tool that's used to help a team prioritize user stories.
+
+The four MoSCoW method categories include must have, should have, could have, and won't have.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 

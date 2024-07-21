@@ -702,6 +702,113 @@ Each requirement is placed into one of four quadrants of classification, and the
 * Release and Iteration Planning
 --------------------------------
 
+When completing your release plan for your Agile project, two activities you'll most likely need to do include
+. splitting and combining stories, and
+. assigning user stories to iterations. 
+ 
+A good guideline for user stories is that they should satisfy the INVEST criteria, which stands for 
+. Independent, 
+. Negotiable, 
+. Valuable,
+. Estimable, 
+. Small, and 
+. Testable. 
+ 
+Sometimes user stories don't fulfill that criteria in that they are either too large or too small. 
+ 
+And by the way, you might also hear the word estimatable. Either way, it simply means, able to be estimated. 
+ 
+Smaller stories can be combined to create larger stories, which is a relatively easy process.
+On the other hand, larger stories can also be split into smaller ones, but this process requires more consideration and effort on how to split those user stories. 
+The goal, ultimately, is to have stories that are small enough so that we can get each story done within a matter of days. 
+ 
+Ideally, no user story is so large that it requires the whole sprint to complete.
+ 
+There are a number of ways to split user stories. The split could be based on operations performed within the story. 
+For example, the story could be split into separate CRUD operations
+. Create, 
+. Read, 
+. Update, and 
+. Delete.
+ 
+Another technique is to consider cross-cutting concerns such as 
+. security, 
+. logging, and 
+. error-handling.
+ 
+The split could then be made into one story version with support for cross-cutting concerns, and one without support. 
+ 
+The split could also be based on functional and non-functional aspects of the story. 
+For example, non-functional aspects would include 
+. performance, 
+. stability, and 
+. speed.
+ 
+Finally, the split could be made into smaller stories if different aspects of a large story have different priorities. 
+
+In some cases, we may have user stories that are too small. And typically, we know that they're small when a developer says that it will take them longer to estimate a story than it will 
+to actually execute it.
+
+Stories that are too small can be combined into a larger related story.
+
+Combining stories that are related will allow them to be better prioritized. 
+
+The combined user story should be estimated as a whole, rather than summing the estimates of its individual parts.
+
+One example of combining stories is combining multiple bug reports.
+
+Once user stories meet INVEST criteria, they can be assigned to iterations.
+
+An iteration is a single development cycle that is anywhere between one and four weeks.
+   
+In iteration planning, we update and elaborate on the release plan, which is a key step in Agile development. 
+ 
+We create the release plan at a high-level, but then we want to start translating those initiatives or those conceptual user stories into specific tasks. 
+ 
+The objective of iteration planning is to generate the level of detail necessary to drive the work for a particular iteration. 
+This helps development team members to understand how to specifically start executing on the user stories. 
+When we're doing iteration planning, we determine the amount of work that a team can complete.
+ 
+
+
+At this point, we can get an understanding of team velocity. 
+And by knowing iteration length, we have a way of estimating how much work we can complete after we've broken down user stories into tasks.
+ 
+
+We also update the list of work for the release.
+Once we've done the process of breaking user stories down into tasks, sometimes we find out that there are new user stories or new tasks for the development team that we need to add to 
+the release plan.
+We also want to set a goal for the iteration at this point.
+That goal should maintain focus as the development work proceeds.
+ 
+So we may have a single theme or a goal that we want to achieve with in an iteration, even though a number of user stories may cover that goal. We're also selecting the functionality to 
+develop, which has been determined in the release planning stage. 
+ 
+
+So as we've talked about before, when we're doing release planning, we may have to split user stories into different categories, and then, in our iteration planning, we're taking a 
+certain category of those user stories and developing them. 
+The work required during iteration planning is typically managed in an iteration planning meeting. 
+
+ 
+Soin the iteration planning meeting, typically the product owner, who is considered the customer representative, presents the user stories to the development team. 
+This is a key information transfer point between the product owner and the development team, as it provides the development team with one-on-one time with the product owner to ask 
+questions about how they expect something to be developed, or their acceptance criteria, and to get into a little bit more detail on requirements as needed.
+ 
+Also, during the iteration planning meeting, the development team translates user stories into specific development tasks, which make execution much more manageable.
+Once user stories are translated into development tasks, they can be assigned to appropriate members of the development team.
+And with a good understanding of both the time commitment required, as well as the sprint length, commitment from the team is also confirmed.
+ 
+This requires developers to confirm their commitment to completing the assigned tasks, and helps ensure that they have manageable workloads.
+In summary, splitting and combining user stories is required when stories don't meet INVEST criteria and are typically too large or too small. Once user stories meet INVEST criteria, they 
+can be assigned to iterations.
+ 
+This is typically done at an iteration planning meeting, where user stories are presented, translated into specific development tasks, those tasks get assigned to iterations, and then, 
+the development team confirms commitment to completing the assigned tasks for a planned iteration.
+ 
+
+
+
+
 
 
 
